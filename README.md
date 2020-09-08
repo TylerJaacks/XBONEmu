@@ -11,4 +11,5 @@ We need to get the Xbox One Binaries which are very similar to that of WinPE bin
 
 # Example of How We Should Reroute
 
-![Xbox One API Rerouting](Xbox One API Rerouting.png)
+![Xbox One API Rerouting](./Images/Xbox One API Rerouting.png)
+
