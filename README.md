@@ -8,3 +8,7 @@ We need to fully understand the structure of the Xbox One binaries such as how t
 # Rerouting Xbox One Libaries
 
 We need to get the Xbox One Binaries which are very similar to that of WinPE binaries to redirct from the Xbox One SDK libaries and kernel to the Windows 10 libaries and kernel. We could use [Microsoft Detours](https://github.com/microsoft/Detours) to redirect calls to these Xbox Libaries to that of ones on Windows. I think that using Microsoft Detours would be a good idea to start with.
+
+# Example of How We Should Reroute
+
+![Xbox One API Rerouting](Xbox One API Rerouting.png)
