@@ -3,7 +3,7 @@ Home to the first Xbox One emulator. Eventually something will be here.
 
 # Investigating the Xbox One Binaries
 
-We need to fully understand the structure of the Xbox One binaries such as how the compare and contrast to that of there Windows (WinPE) counterparts. This would allow us to know if there were any changes we would need to make to make sure that these binaries can even run on the host machine.
+We need to fully understand the structure of the Xbox One binaries such as how the compare and contrast to that of there Windows (Windows Portable Executable or Windows PE for short) counterparts. This would allow us to know if there were any changes we would need to make to make sure that these binaries can even run on the host machine.
 
 # Rerouting Xbox One Libaries
 
