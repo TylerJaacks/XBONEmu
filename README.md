@@ -14,3 +14,7 @@ We need to get the Xbox One Binaries which are very similar to that of WinPE bin
 ![Xbox One API Rerouting](./Images/rerouting.png)
 
 This is based on an example application that I made using the Xbox One SDK.
+
+# Resources
+
+(Inject your code to a Portable Executable file)[https://www.codeproject.com/Articles/12532/Inject-your-code-to-a-Portable-Executable-file#Prerequisite1]
