@@ -18,3 +18,4 @@ This is based on an example application that I made using the Xbox One SDK.
 # Resources
 
 [Inject your code to a Portable Executable file](https://www.codeproject.com/Articles/12532/Inject-your-code-to-a-Portable-Executable-file#Prerequisite1)
+[Using Detours](https://github.com/microsoft/detours/wiki/Using-Detours)
