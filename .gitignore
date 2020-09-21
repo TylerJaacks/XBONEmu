@@ -4,3 +4,20 @@
 x64/*
 
 XBONEmu.Launcher/x64/*
+_ReSharper.Caches/
+
+XBONEmu.kernelx/x64/
+
+XBONEmu.kernelx/XBONEmu.xkernel.vcxproj.filters
+
+XBONEmu.kernelx/XBONEmu.xkernel.vcxproj.user
+
+XBONEmu.DetoursExampleLibrary/x64/
+
+XBONEmu.DetoursExampleLibrary/XBONEmu.DetoursExample.vcxproj.filters
+
+XBONEmu.DetoursExampleLibrary/XBONEmu.DetoursExample.vcxproj.user
+
+ExampleXboneGame/
+
+ExampleXboneGame.zip
