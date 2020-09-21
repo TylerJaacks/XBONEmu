@@ -22,3 +22,5 @@ This is based on an example application that I made using the Xbox One SDK.
 [Using Detours](https://github.com/microsoft/detours/wiki/Using-Detours)
 
 [Xbox Research Engineering Wiki](https://xosft.dev/wiki/)
+
+[Loading Windows PEs](https://github.com/JeremyWildsmith/PELoader)
