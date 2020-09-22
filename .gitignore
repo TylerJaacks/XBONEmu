@@ -23,3 +23,7 @@ ExampleXboneGame/
 ExampleXboneGame.zip
 
 XBONEmu.DetoursExampleApplication/x64/
+
+XBONEmu.Launcher/XBONEmu.Launcher.vcxproj.user
+
+XBONEmu.sln.DotSettings.user
